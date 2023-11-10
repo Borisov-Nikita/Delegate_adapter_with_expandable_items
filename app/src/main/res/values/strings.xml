@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Delegate adapter with expandable items</string>
+    <string name="lorem_ipsum_title">Lorem ipsum dolor sit amet.</string>
+    <string name="lorem_ipsum_base_info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu elementum nulla. In finibus porta. </string>
+    <string name="lorem_ipsum_profile_name">Lorem Ipsum</string>
+    <string name="lorem_ipsum_link">Aenean non augue quis neque commodo.</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non augue quis neque commodo volutpat in et velit. Curabitur eu nisl tellus. Aenean elementum ligula vel fringilla luctus. Nulla a lorem gravida, elementum ligula at, varius magna. Phasellus eget lacus eleifend nisl bibendum suscipit in eget augue. Curabitur vestibulum congue velit eget placerat. Mauris magna urna, ullamcorper vitae nisl ac, pharetra pretium nunc. Phasellus non dolor id tortor imperdiet dignissim vitae id erat. Ut ultricies placerat lorem suscipit aliquam. Vivamus posuere lacus quis mollis faucibus. Etiam suscipit ultricies ligula in posuere. Donec vel neque ligula. Vivamus facilisis quam sed massa scelerisque tristique. </string>
 </resources>
